@@ -1,0 +1,2049 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass upeeei
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 1
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+%%% UP EEEI undergraduate project template
+\end_layout
+
+\begin_layout Plain Layout
+
+%% v0.1 by Louis P.
+ Alarcon 11/22/2011
+\end_layout
+
+\begin_layout Plain Layout
+
+%%
+\end_layout
+
+\begin_layout Plain Layout
+
+%% LyX template - use with the following files:
+\end_layout
+
+\begin_layout Plain Layout
+
+%% 	uct10_new.clo, uct11_new.clo, uct12_new.clo, upeeei.cls, upeeei.layout
+\end_layout
+
+\begin_layout Plain Layout
+
+%%
+\end_layout
+
+\begin_layout Plain Layout
+
+%% Place project title here
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+title{Wireless Mesh Network Localization using the DASH7 Standard} 
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+%%
+\end_layout
+
+\begin_layout Plain Layout
+
+%% Author information
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+author{Jamieson Arlan G.
+ Macagba
+\backslash
+
+\backslash
+ 2011-26418
+\backslash
+
+\backslash
+ 
+\backslash
+emph{B.S.
+ Electronics and Communications Engineering}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+Kym Derrick P.
+ Uy
+\backslash
+
+\backslash
+ 2011-03648
+\backslash
+
+\backslash
+ 
+\backslash
+emph{B.S.
+ Computer Engineering}
+\end_layout
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+%%
+\end_layout
+
+\begin_layout Plain Layout
+
+%% Month and year of submission/graduation
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+degreeyear{2014} 
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+degreesemester{April} 
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+% Put your adviser here:
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+chair{Nestor Michael P.
+ Tiglao, PhD}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+othermembers{-}
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+field{Electrical/Computer/Electronics and Communications Engineering} 
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+campus{Diliman} 
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+maketitle
+\end_layout
+
+\begin_layout Plain Layout
+
+% 
+\backslash
+approvalpage 
+\end_layout
+
+\begin_layout Plain Layout
+
+% 
+\backslash
+copyrightpage 
+\end_layout
+
+\begin_layout Plain Layout
+
+% 
+\backslash
+begin{abstract} 
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+%Your abstract goes here...
+\end_layout
+
+\begin_layout Plain Layout
+
+%In a 
+\backslash
+emph{single} well-written paragraph, this is what we'd like to do.
+  Try to cover Need, Solution, Differentiation, Benefit (NSDB).
+  Use the content of this template as an example for formatting your proposal
+ document, 
+\backslash
+textbf{NOT} as a strict guide for the flow of your discussion and what your
+ proposal must contain.
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+% 
+\backslash
+abstractsignature
+\backslash
+end{abstract}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{frontmatter} 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+setlength{
+\backslash
+parskip}{0pt}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{frontmatter} 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+def
+\backslash
+MASTERDOC{true}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+Introduction
+\begin_inset CommandInset label
+LatexCommand label
+name "cha:Introduction"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Background of the Project
+\end_layout
+
+\begin_layout Standard
+This section states the reasons why the project is being done.
+ If the project is related to previous projects, a short history of what
+ the previous projects accomplished shall be included.
+ If the project is part of a larger work, a brief mention of the rest of
+ the work shall be made.
+\end_layout
+
+\begin_layout Standard
+Traffic congestion in the Philippines has always been a big problem.
+ Back then, some highways and roads in Metro Manila with the exception of
+ EDSA ave.
+ has seen a small amount of congestion.
+ Now it even reaches places outside the Metro and there are even cases of
+ traffic in a large expressways.
+ This is due to a large number of vehicle increase in the country.
+ According to a statistical study, there already have been 29.4 million vehicles
+ since 2013 [8].
+ This is a huge number compared to other countries in Southeast Asia whose
+ roads have the capacity to handle their total number of vehicles.
+ Even schools or areas near them are not exempted from this problem.
+ In the UP Diliman Area, some jeepneys have to drive along a section where
+ there is a definite congestion of vehicles, which tends to make students
+ late for their classes or appointments.
+ This section is the CP Garcia.
+ It also said that a lot of students would try to bring their own private
+ vehicles instead of using public transportation accesible to them, but
+ that leads to another problem of shortage in parking spaces in the campus.
+ There are more than 3000 parking spaces lacking on all colleges.
+\begin_inset CommandInset citation
+LatexCommand cite
+key "UndergraduateThesis"
+
+\end_inset
+
+ That signals the fact that traffic congestion is getting closer to communities
+ with inadequate roads.
+ 
+\end_layout
+
+\begin_layout Standard
+One of the following solution presented by an advocacy group in UP Diliman
+ is to provide accessible bikes for the use of students.
+ The group is named UP Bike Share.
+ It tries to solve the problem of traffic congestion and the passenger congestio
+n in jeepneys especially during the end of classes.
+ Like other great ideas this one possesses its own problems, which are the
+ loss of bikes.
+ As of now bikes are of limited use due to this problem.
+ It is because the campus is not practiced biking community.
+ Some users do not have the knowledge to lock their bikes properly and that
+ could lead to theft.
+ Another reason is bikes are able to move in and out of the campus which
+ is stricty prohibited, but Bike Share is unable to actually track if some
+ bike are leaving the campus.
+ Monitoring the bikes is clearly their main problem in terms of risk mitigation.
+\end_layout
+
+\begin_layout Standard
+A lot of tracking devices have been present and commercialy accesible like
+ GPS.
+ Bike Share tries not to use this device since they are power hungry despite
+ of it being low cost.
+ If GPS were used bikes need to have an immediate station for charging which
+ are currently not found inside the campus.
+ Instead they have decided to try implementing a wireless mesh network tracking
+ system.
+ WMN consists of sensor or nodes capable of being tracked in an area.
+ It also has low power consumption and sensor are at a low cost.
+ There are currently no bike tracking systems present in the country since
+ this is one of its few bike sharing projects.
+ Because of this, there is a definite demand for development of tracking
+ systems not only to help Bike Share but also other projects that requires
+ monitoring.
+\end_layout
+
+\begin_layout Section
+Wireless Mesh Networks
+\end_layout
+
+\begin_layout Standard
+Wireless Mesh Networks or WMN is a type wireless access network that combine
+ the Wireless Local Area Networks (WLANs) and Mobile Ad hoc Networks (MANET).
+ WMN consists of two kinds one is client-based mesh networks while the other
+ is infrastructure-based mesh networks.
+ Client based allows end nodes such as transceivers, cellphones or laptops
+ to participate in relaying data in a network, while infrastructure based
+ prohibits this and uses a backbone network that is responsible for relaying.
+ More and more application in WMN are emerging like communication, first
+ response systems, and loacalization.
+ In localization, most algorithm are for WLANs and MANETs which does not
+ utilize the advantages of WMN which is the ability of each end node to
+ communicate.
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "4794164"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+DASH7 Technology
+\end_layout
+
+\begin_layout Standard
+DASH7 is a new technology which is based from the ISO/IEC 18000-7 and uses
+ the 433 MHz band.
+ It is capable of distances ranging up to 2 kilometers, and also provides
+ a multi-year battery life.
+ It is also flexible in such a way that it can also propagate its signal
+ for indoors, because DASH7 can penetrate thick walls easily
+\begin_inset CommandInset citation
+LatexCommand cite
+key "HT1"
+
+\end_inset
+
+.
+ Shown in Table 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "tab:DASH7-Range-and"
+
+\end_inset
+
+ are some specifications of DASH7 compared to the other commonly used wireless
+ technologies (Wi-fi, Bluetooth).
+ One of the main difference between the two standards are their access methods.
+ The access method used by ISO/IEC 18000-7 uses Slotted ALOHA, while DASH7
+ uses Carrier Sense Multiple Access/Collison Avoidance or CSMA/CA.
+ Slotted ALOHA's downside is that it cannot effectively cope with collision
+ problems in a network.
+ Although Slotted ALOHA is capable of recovering packets tat collided, the
+ collection time of packets or data is increased and more power is consumed
+ in the process of recovering.
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "6831994"
+
+\end_inset
+
+ The other specifications of both DASH7 and ISO/IEC 18000-7 in both the
+ Physical Layer and MAC Layer are shown in Table 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "tab:Physical-Layer-and"
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+DASH7 Range and Average Battery Life Compared with Wi-fi and Bluetooth
+\begin_inset CommandInset label
+LatexCommand label
+name "tab:DASH7-Range-and"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Tabular
+<lyxtabular version="3" rows="3" columns="4">
+<features rotate="0" tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Specification
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Wi-fi
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Bluetooth
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+DASH7
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Range
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+30 to 90 m
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+10 m
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+200 m to 2 km
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Average Battery Life
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1 to 2 days
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1 to 2 weeks
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+5 to 7 years
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Physical Layer and MAC Layer Comparison for DASH7 and ISO/IEC 18000-7 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "6831994"
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "tab:Physical-Layer-and"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Tabular
+<lyxtabular version="3" rows="7" columns="4">
+<features rotate="0" tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Layer
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Component
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ISO/IEC 18000-7
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+DASH7
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell multirow="3" alignment="center" valignment="middle" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+PHY
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Channel Size
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+500 kHz
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+216 kHz
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell multirow="4" alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Channels
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+4, 8
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell multirow="4" alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Symbol Rate
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+55.6 kBaud
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Normal: 55.6 kBaud, Turbo: 200 kBaud
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell multirow="3" alignment="center" valignment="middle" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+MAC
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Access Methods
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Slotted ALOHA
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+CSMA/CA
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell multirow="4" alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Addresing 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Unicast, Broadcast
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Unicast, Broadcast, Multicast, Analyst
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell multirow="4" alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Multi-hop Support
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+No
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Yes
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Documentation Flow and Organization
+\end_layout
+
+\begin_layout Standard
+Before you end your introduction chapter, you should provide a brief description
+ of the upcoming chapters.
+ This gives the readers the idea on what to expect in your documentation.
+ Show how each chapter relates to each other.
+\end_layout
+
+\begin_layout Standard
+After the following introduction the next chapters will try to focus on
+ reviewing tracking algorithms and devices that can be implemented in a
+ wireless mesh network tracking system, which is Chapter 2.
+ Also we would discuss the problem statement and our objectives for this
+ project on Chapter 3.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+Related Work
+\begin_inset CommandInset label
+LatexCommand label
+name "cha:RRW"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The following section will provide information about algorithms regarding
+ wireless mesh network localization.
+\end_layout
+
+\begin_layout Section
+Tracking Methods 
+\end_layout
+
+\begin_layout Standard
+Numerous algorithms can be used for localization in a wireless mesh network.
+ All algorithms can be categorized into three general methods of localization.
+ These are proximity method, scene analysis method and triangulation method
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "1"
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Standard
+Proximity method uses sensor or nodes that would be able to identify a target
+ near its vicinity or area 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "1"
+
+\end_inset
+
+.
+ Sensors would look for signals sent by a target using transceivers or RFID
+ tags.
+ Usually a lot of nodes are positioned in different sections to cover the
+ area of localization.
+ Proximity method is known for its robustness because of its ability handle
+ some interference cause by the environment, and also because of its low
+ cost setup.
+ Despite of that, the method is only able to detect the vicinity of a target
+ and not the exact location itself thus decreasing its accuracy.
+ It is also not easy to arrange, since sensors should be positioned correctly
+ or confusion regarding the location of a target can happen.
+ It is usually used in small areas or indoor setups.
+ 
+\end_layout
+
+\begin_layout Standard
+On the other hand, scene analysis method studies the area of localization
+ to gather the signal strength of the target from a fixed sensor node with
+ a given location.
+ The signal strength would be tabulated along with its corresponding position
+ to a database 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "1"
+
+\end_inset
+
+.
+ After the analysis and installation, localization would start and sensors
+ would compare the acquired signal strength of the target to the ones stored
+ inside the database.
+ Even if there is a database, sensors would still need to estimate the location
+ since not all signal strengths can be mapped to a particular position on
+ the area.
+ Scene analysis method usually provides an accurate position but at the
+ expense of time of analysis.
+ If there is a large area of localization, especially in an outdoor environment,
+ it would definitely take time to gather the signal strength at multiple
+ positions.
+ 
+\end_layout
+
+\begin_layout Standard
+The last method is triangulation, which needs at least three base stations
+ with known coordinates.
+ These base stations are essential in locating a target since the acquired
+ signal strengths per base station would be used to calculate the distance
+ between the station and the target.
+ Using the stations as centers and the calculated distance to the target
+ as radii for each circle, the three circles would intersect at a common
+ point which would provide the location of the target.
+ Sometimes the location is not accurate because of signal strength discrepancies
+ so other methods were developed with triangulation as their basis.
+ These are Coverage Area Based Algorithm and Ring Overlapping Localization
+\begin_inset CommandInset citation
+LatexCommand cite
+key "4794164"
+
+\end_inset
+
+.
+ This method is ideal for outdoor localization since base stations are capable
+ of a large coverage area but targets require a high amount of energy for
+ transmitting data.
+ The transceivers of the target would likely need an immediate access to
+ charging in this method.
+ 
+\end_layout
+
+\begin_layout Subsection
+Distance Measurement
+\end_layout
+
+\begin_layout Standard
+The three main types of distance measurement methods are the signal transmission
+ time based, signal transmission route based and signal transmission power
+ based or Receive Signal Strength Identifier (RSSI).
+ 
+\end_layout
+
+\begin_layout Standard
+The first method uses time of arrival (TOA) of a signal to determine the
+ distance between two nodes.
+ It starts out when a node (sender) sends a signal to another node (receiver).
+ The receiver would then send back a reply signal.
+ After the reply signal is received by the sender time is measured using
+ a synchronize clock referred to by the nodes.
+ It is very hard to synchronize multiple nodes particularly in WMN which
+ would consist of large number of nodes.
+ Another disadvantages is that the speed of a radio frequency, which is
+ primally used in node, are difficult to measure.
+ To solve this problem another time based method was developed using the
+ time difference of arrival.
+ This method uses two signals, particularly an RF signal and a supersonic
+ signal.
+ Supersonic was chosen since their speeds are easier to measure relative
+ to the RF signal.
+ The method starts when a sender send an RF signal to a receiver, then the
+ sender would send another signal this time the supersonic signal.
+ The receiver would measure the difference in time of arrival of the two
+ signals and by using the calculated speed of the supersonic signal the
+ distance can be obtained.
+ Even though it solves the problem of speed measurement it would require
+ each node to have a supersonic transmitter and receiver which increases
+ the cost of a node.
+\end_layout
+
+\begin_layout Standard
+Signal transmission route based algorithms use the hop count attribute.
+ In this method some nodes know their own location since they are static.
+ Using the hop count and the location of the static nodes the a target can
+ locate itself and the target will forward its location to a server or sink.
+ The method yields low accuracy since the hop count is sometimes not proportiona
+l to the distance between nodes.
+ Systems who usually use this are those with regularly distributed nodes
+\end_layout
+
+\begin_layout Standard
+The last algorithm is based on the signal power or RSSI.
+ Using a formula that convert the strength of a signal to distance, the
+ distance between nodes can be easily computed.
+ There is also no need of additional transmitters and receivers since the
+ RF signals are can already be used in RSSI measurements.
+ The only problem this method possesses is that interferences caused by
+ other signals and obstruction will change the value of the RSSI which will
+ lead to errors in localization
+\end_layout
+
+\begin_layout Subsection
+WLAN Localization Methods
+\end_layout
+
+\begin_layout Standard
+Localization in WLAN can be differentiated into 4 kinds of algorithms.
+ These are experimental algorithms, statistic algorithms, signal transmission
+ based algorithms, and hybrid algorithms.
+ 
+\end_layout
+
+\begin_layout Standard
+Experimental algorithms consists of two stages an offline and an online
+ stage.
+ Offline stages of experimental algorithms main objective is to create a
+ database of signal strength with its corresponding location.
+ To do this a target is moved to different locations and the signal strengths
+ obtained will be tabulated.
+ When the network becomes online the target can easily be located using
+ its signal strength because it can be directly mapped to a location using
+ the database.
+\end_layout
+
+\begin_layout Standard
+Statistics algorithms requires data that will be used as a training set
+ for the network to learn using statistic models.
+ Unlike the previous algorithm, it requires less work in terms of data gathering
+ because the data set is only acquired in some sections of the region of
+ surveillance.
+ Its drawback is the amount of time needed in order to fully train the network,
+ which is also considered as an offline work.
+ After training, there might still be errors in localization brought by
+ using training sets.
+\end_layout
+
+\begin_layout Standard
+Signal transmission based algorithms requires no offline work unlike the
+ first two methods.
+ It uses signal strengths of multiple nodes to perform trilateration in
+ order to localize a target.
+ It uses the distances converted from the signal strength and then used
+ as values for the equations.
+ GPS is one of the major users of this algorithm.
+ Its disadvantage is that interferences will create discrepancies in the
+ signal strength yielding to incorrect locations of a target.
+\end_layout
+
+\begin_layout Standard
+Hybrid algorithms from the name itself is a hybrid between experimental
+ and signal transmission based algorithms.
+ It uses calculations to locate a target like signal transmission based
+ algorithms.
+ The data acquired by the from the offline phase is used to verify the signal
+ strengths that will be used in the calculations.
+ The measure signal strength is not always associated to the database, to
+ improve the overall effectiveness of the metod.
+\end_layout
+
+\begin_layout Section
+Tracking Devices
+\end_layout
+
+\begin_layout Standard
+There are multiple devices applicable for tracking not only on wireless
+ mesh networks but in general.
+ Examples are transceivers, RFIDs, and GPS
+\begin_inset CommandInset citation
+LatexCommand cite
+key "1"
+
+\end_inset
+
+, 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "6583484"
+
+\end_inset
+
+, 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "4492568"
+
+\end_inset
+
+, 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "878533"
+
+\end_inset
+
+.
+ The latter two are usually the main device used for tracking and for personal
+ use.
+ Though they are accessible, GPS and RFID require stable power sources which
+ would limit the productivity of the bikes.
+ Some transceivers are also accessible with different prices and signal
+ ranges.
+ Some of these transceivers are RF100, MICAz motes, Radiometrix RPC418,
+ and MIT's Cricket.
+ The following were tested on an indoor environment because of its signal
+ range limitation.
+ There are other transceivers that are less documented but also suited for
+ tracking in WMN.
+ These are CC430F and CC1101, which are capable of reaching distance from
+ 500 meters to 2 kilometers.
+ Other valuable specification can be seen in Table 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "tab:Comparison-of-Multiple-Transceiver"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+From comparison CC430F is probably the best choice for a transceiver to
+ be used by the node, despite of it having a higher current consumption
+ compared to the others.
+ Its range is a big factor and also because it can be powered by two AA
+ batteries.
+ The range of possible frequency of operation for the CC430F is between
+ 300 MHz to 928 MHz 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "3"
+
+\end_inset
+
+.
+ 433 MHz would be the optimal frequency band since it is an unlicensed band
+ and it is low enough such that its signal is able to pass through walls.
+\end_layout
+
+\begin_layout Standard
+There is a device called Wizzimote which has an embedded CC430F transceiver
+ with a MSP430 microcontroller it is shown in Figure 2.2.
+ It also has an open source protocol stack called DASH7 capable of multihopping
+ and collision avoidance properties.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Comparison of Multiple Transceivers 
+\begin_inset CommandInset label
+LatexCommand label
+name "tab:Comparison-of-Multiple-Transceiver"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Tabular
+<lyxtabular version="3" rows="8" columns="5">
+<features rotate="0" tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Transceiver
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="1" alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Maximum Current Composition
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="1" alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Frequency of Operation
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Transmit mode
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Receive mode
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Min
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Max
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+RF100
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+110 mA
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+65 mA
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="1" alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+2.4 GHz
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+MICAz motes*
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+17.4mA
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+19.7 mA
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+2.4 GHz
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+2.48 GHz
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+RPC 418-5
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="1" alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+13 mA
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="1" alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+418 MHz
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Cricket (CC1000)*
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+26.7 mA
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+7.4 mA
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+315 MHz
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+915 MHz
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+CC1101*
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+29.2 mA
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+17.1 mA
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+300 MHz
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+928 MHz
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+CC430F (Wizzimote)*
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+33 mA
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+18.5 mA
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+300 MHz
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+928 MHz
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+
+\size footnotesize
+*Current consumption data acquired on 433 MHz frequency band
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename images/wizzimote.jpg
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Wizzimote
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+Problem Statement and Objectives 
+\begin_inset CommandInset label
+LatexCommand label
+name "cha:ProbStatement"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+In the previous chapter we have tackled the different algorithms that are
+ being used to determine the location of a unit inside a wireless mesh network.
+ In this chapter we would be dictating our problem statement and the our
+ objectives of our project
+\end_layout
+
+\begin_layout Section
+Problem Statement
+\end_layout
+
+\begin_layout Standard
+Currently UP Bike Share intends to execute everything manually, i.e., rider
+ registration, bike monitoring and quality control.
+ In doing so they may not be able to check whether every rider is adhering
+ to the rules that they have lain down, therefore there is no assurance
+ that every bike is being used exclusively inside campus premises.
+ There have been reports of bike sightings outside the vicinity of UP Diliman,
+ e.g., Katipunan, Maginhawa, etc.
+ They have also lost a few bikes since they have started, and this scenario
+ can go on if no device is made to support their cause and strictly implement
+ their rules.
+ By creating a tech that could support their advocacy by tracking every
+ bike in their arsenal, they would be able to track down the violators and
+ give them a proper sanction, while ensuring that every bike and rider is
+ kept safe and unharmed, leading towards a better biking community for UP
+ Diliman.
+\end_layout
+
+\begin_layout Section
+Objectives
+\end_layout
+
+\begin_layout Standard
+We intend to create an automated consolidating unit using a wireless mesh
+ network that could monitor the whereabouts of the bike and the information
+ of the rider that currently rented the bike.
+ The bike share initiative intends to expand as the years progress, therefore
+ that would mean more bikes, consequently more devices, since each bike
+ would need its own tech, this is why the materials to be used to fabricate
+ the device should be cheap.
+ There is an initial plan that the tech could be powered by the pedaling
+ motion of the biker, this can only be done if the device isn’t too power
+ hungry.
+ Riders wouldn’t like the idea of exerting too much effort in biking and
+ keeping the device powered, that is why the device must need only a small
+ amount of energy to power it.
+ The device should have a way to monitor the whereabouts of the bikes accurately
+ so that the location of each bike can be retrieved if or when needed.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+Methodology
+\end_layout
+
+\begin_layout Standard
+Our proposed method uses the Ring Overlapping Localization (ROL) which is
+ based on Sub-Partial Range Aware distance measurement (SPRA).
+ ROL is an algorithm developed from trilateration.
+ Since trilaterion uses overlapping circles created using the RSSI of a
+ target node and a base station, it will encounter errors brought by interferenc
+es.
+ ROL tries to improve trilateration by using rings that to localize a target,
+ and to obtain the radii of the rings we are going to use SPRA measurement
+ which maps a particular RSSI to a particular range of distance.
+\end_layout
+
+\begin_layout Section
+Design
+\end_layout
+
+\begin_layout Section
+Implementation
+\end_layout
+
+\begin_layout Section
+Testing
+\end_layout
+
+\begin_layout Subsection
+Device Testing
+\end_layout
+
+\begin_layout Standard
+First we would test the Wizzimote if it is able to obtain the following
+ specification we have presented.
+ Using a code whose function is to send a signal to a that will control
+ a blinking LED of a Wizzimote using another Wizzimote.
+ We would collect the necessary data, which are the RSSI of the Wizzimote
+ and also the minimum and maximum ranges for an outdoor environment.
+ After collecting the data we would be able to know if it is an optimal
+ sensor node for a Target Tracking system.
+\end_layout
+
+\begin_layout Subsection
+Trilateration Method Testing
+\end_layout
+
+\begin_layout Standard
+If the Wizzimotes are optimal, we would test the accuracy of the Triangulation
+ Method next.
+ We will position the sensor nodes in the corners of a room, this nodes
+ will become the anchors.
+ We would label each anchor with x and y coordinates, which are dependent
+ on the height and the width of the room.
+ The target would be positioned in an unknown location to be tracked by
+ the anchors.
+ After calculations from the anchors, we would try to match the results
+ obtained by the anchors to the actual measurement which would be manually
+ measured.
+\end_layout
+
+\begin_layout Standard
+After the indoor testing, we would then test it on the outdoor environment,
+ and this a larger region would be involved.
+ Using the same steps used on the indoor testing, we would be able to test
+ the accuracy of the method.
+ Interferences may come in to play, since the anchors might be positioned
+ with buildings or trees in between them.
+ 
+\end_layout
+
+\begin_layout Standard
+For both indoor and outdoor testing we would repeat the steps multiple times
+ to acquire relative data about the accuracy of the method.
+ That data will be used to minimize the descrepancies of the calculated
+ location of a target.
+ This would become very useful when nodes are finally deployed outdoor
+\end_layout
+
+\begin_layout Subsection
+Final Testing
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset bibtex
+LatexCommand bibtex
+btprint "btPrintAll"
+bibfiles "bibliography"
+options "unsrt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
